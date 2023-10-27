@@ -1,0 +1,343 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar ul li{
+    display: inline-block;
+}
+
+.navbar .logo .navbarkanan{
+    background-color: rgb(237, 237, 237);
+    height: 25px;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.navbar ul{
+    float: left;
+    color: black;
+    margin-top:-50px;
+    margin-left: 150px;
+    word-spacing: 5px;
+    font-size: 13px;
+}
+
+.navbar ul li a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.navbarkanan ul li{
+    display: inline-block;
+}
+
+.navbarkanan{
+    flex-direction: column;
+    display: inline-block;
+}
+
+.navbarkanan{
+    float: right;
+    margin-top: -53px;
+    
+}
+
+.navbar .kata{
+    float: right;
+}
+.navbar .kata{
+    margin-right: 150px;
+}
+.navbarkanan img{
+    margin-right: 15px;
+}
+
+.navbar .katakiri{
+    width: 40%;
+    margin-top: -450px;
+    margin-left: 80px;
+    color: white;
+}
+
+
+
+.navbar .windows{
+    display: flex;
+    justify-content: center;
+   margin: 40px;
+    align-content: space-between;
+    padding: 10px;
+}
+
+.navbar .katatengah{
+    display: flex;
+    font-size: 15px;
+    justify-content: space-evenly;
+    margin-top: -38px;
+}
+.navbar .katatengah h3 a{
+   text-align: center;
+    color: blue;
+     justify-content: center;
+}
+
+.navbar .windows img{
+    margin-top: 200px;
+}
+
+.navbar .windows{
+    justify-content: space-evenly;
+
+}
+.navbar .katatengah h3{
+    text-align: center;
+}
+button{
+    background-color: rgb(14, 104, 146);
+    width: 250px;
+    height: 50px;
+    margin-left: 50px;
+}
+
+button a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.windows .katatengah{
+    padding-top: 500px;
+}
+
+.gambar img{
+    width: 100% ;
+}
+
+/* .navbar .empat{
+    display: flex;
+    justify-content: center;
+   margin: 40px;
+    align-content: space-between;
+    padding: 10px;
+}
+
+.navbar .lulu{
+    display: flex;
+    font-size: 15px;
+    justify-content: space-evenly;
+    margin-top: -38px;
+    width: 100%;
+}
+.navbar .lili1{
+    margin-right: -2px;
+    margin-left: 90px;
+}
+.navbar .lili2{
+    margin-right: -15px;
+}
+.navbar .lili3{
+    margin-right: -17px;
+}
+.navbar .lili4{
+    margin-left: 180px;
+}
+
+.navbar .empat{
+  justify-content: space-between;
+}
+.text1{
+    margin-left: 100px;
+}
+.tet3{
+    margin-right: 70px;
+} */
+
+.navbar .card .lulu div .text{
+    display: inline-block;
+}
+.navbar .card .lulu div{
+    display: inline-block
+}
+.navbar .card .lulu div .text h2{
+    text-align: left;
+    font-weight: 300;
+}
+
+.navbar .card .lulu{
+    display: flex;
+}
+
+.navbar .card .lulu .text a{
+    text-decoration: none;
+    color: rgb(37, 37, 156);
+}
+
+.img{
+    margin: 15px;
+     margin-right: 48px;
+}
+
+.navbar .inbox .katadepan{
+    margin: 50px;
+}
+
+.navbar .inbox{
+    margin-left: 75px;
+    border-radius: 10px;
+}
+
+.navbar .katadepan{
+    width: 40%;
+    margin-top: -350px;
+    margin-left: 170px;
+}
+
+.navbar .katadepan button{
+   font-size: 10px;
+   width: 170px;
+   margin-left: -10px;
+
+}
+
+.navbar .emon div .nct{
+    display: inline-block;
+}
+.navbar .emon div{
+    display: inline-block;
+}
+
+.navbar .emon div .nct h2{
+    text-align: left;
+    font-weight: 200;
+}
+
+.navbar .emon{
+    display: flex;
+}
+
+.container{
+    margin:  15px;
+    margin-right: 48px;
+}
+
+.navbar .emon .nct a{
+    text-decoration: none ;
+    color: rgb(37, 37, 173);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar .mawar button{
+    background-color: lightgray;
+    width: 140px;
+    color: black;
+    margin-left: 1100px;
+}
+
+.navbar .mawar button a{
+    color: black;
+    font-size: 15px;
+}
+
+footer{
+    background-color: rgb(219, 219, 219);
+    height: 400px;
+}
+.footer{
+    justify-content: space-around;
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Df1, .Df2, .Df3, .Df4, .Df5, .Df6{
+    width: 200px;
+}
+
+.footer h3{
+    font-size: 15px;
+}
+
+.footer ul{
+    padding: 10px;
+    list-style: none;
+}
+
+.footer ul li{
+    margin: 10px;
+    font-size: 12px;
+}
+
+.footer ul li a{
+    text-decoration: none;
+    color: #616161;
+}
+
+.footer ul li a:hover{
+    text-decoration: underline;
+}
+
+.footer2{
+    background-color: rgb(219, 219, 219);
+    justify-content: space-between;
+    margin-right: 20px;
+    display: flex;
+    height: 50px;
+    align-items: baseline;
+}
+
+.footer2 .Ef1 ul, .Ef2 ul{
+    list-style: none;
+}
+
+.footer2 .Ef1 ul, .Ef2 ul{
+    display: flex;
+    gap: 10px;
+}
+
+.footer2 .Ef1 ul li, .Ef2 ul li{
+    font-size: 12px;
+    margin-left: 15px;
+    list-style: none;
+}
+
+.footer2 .Ef1 ul li, .Ef2 ul li a{
+    color: #2f2f2f;
+    text-decoration: none;
+}
+
+.footer2 ul li a:hover{
+    text-decoration: underline;
+}
+
+.footer2  .Ef1 ul li a{
+    text-decoration: none;
+    color: #2f2f2f;
+}
+
+.footer2 .Ef1 ul li a:hover{
+    text-decoration: underline;
+}
+
+.katatengah .text1 h3 a{
+    margin-left: 60px;
+}
+
+.katatengah .text3 h3 a{
+    margin-left: -112px;
+}
+
+.katatengah .text2 h3 a{
+    margin-left: -112px;
+}
+
+.card .lulu .text a:hover{
+    text-decoration: underline;
+}
+
+.emon .nct a:hover{
+    text-decoration: underline;
+}
